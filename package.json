@@ -1,0 +1,22 @@
+{
+  "name": "pingbot",
+  "version": "1.0.0",
+  "description": "The best discord bot ever.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwdev2k7/pingbot.git"
+  },
+  "author": "kwdev2k7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwdev2k7/pingbot/issues"
+  },
+  "homepage": "https://github.com/kwdev2k7/pingbot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
