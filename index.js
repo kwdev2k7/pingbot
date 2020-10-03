@@ -13,7 +13,7 @@ let replies = [
 
 let authors = {
 	"kwdev2k7": "developer.",
-	"durak": "ideas.",
+	"doshirak": "ideas.",
 	"LEON": "ideas.",
 	"Demetry": "ideas."
 }
