@@ -8,7 +8,8 @@ client.on('ready', () => {
 
 let replies = [
 	"Pong!",
-	"ping pong, gong kong"
+	"ping pong, gong kong",
+	"лови пингово понговый мяч в лицо"
 ];
 
 let authors = {
@@ -21,7 +22,8 @@ let authors = {
 let gifs = [
 	"https://cdn.discordapp.com/attachments/696409263727181854/761683813624840222/pingpong.gif",
 	"https://cdn.discordapp.com/attachments/696409263727181854/761685682393448459/pingpong1.gif",
-	"https://cdn.discordapp.com/attachments/696409263727181854/761685683122733066/pingpong2.gif"
+	"https://cdn.discordapp.com/attachments/696409263727181854/761685683122733066/pingpong2.gif",
+	"https://cdn.discordapp.com/attachments/696409263727181854/761880544526598154/pingpong3.jpg"
 ]
 
 client.on('message', msg => {
