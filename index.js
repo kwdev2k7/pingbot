@@ -8,7 +8,6 @@ client.on('ready', () => {
 
 let replies = [
 	"Pong!",
-	"лови пингово понговый мячик обезьяна ебаная",
 	"ping pong, gong kong"
 ];
 
